@@ -3,10 +3,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/2cmcclain005/LABURL)
+- [Mock Security Audit](https://www.coursera.org/learn/manage-security-risks/exam/TMBj8/portfolio-activity-conduct-a-security-audit/attempt)
 
-<h2>📄 Certifications:</h2>
+<h2>📄 Certifications & Professional Documents:</h2>
 
-- [Google Cybersecuurity Professional](https://www.coursera.org/learn/manage-security-risks/lecture/CsJ5Q/introduction-to-course-2)
+- [Google Foundations of Cybersecuurity Course Certificate](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
+- [Professional Statement](https://docs.google.com/document/d/1BL3ECzgBIAuB5qFKYss1U8-hmzasyVQnnJSMJcKobRo/edit)
 
 <h2>📺 YouTube Videos</h2>
 
@@ -14,15 +16,15 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ConnorMcClain | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ConnorMcClain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ConnorMcClain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ConnorMcClain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/2cmcclain005
+[youtube]: https://www.youtube.com/channel/UCVC3G0xA4F8OW6CJ_XfAmyw
+[instagram]: https://www.instagram.com/frankocean.ismydad/
+[linkedin]: https://www.linkedin.com/in/connor-undefined-31786b2a1/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
