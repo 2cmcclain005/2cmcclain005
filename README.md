@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/2cmcclain005/LABURL)
-- [Mock Security Audit](https://www.coursera.org/learn/manage-security-risks/exam/TMBj8/portfolio-activity-conduct-a-security-audit/attempt)
+- [Mock Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
 
 <h2>📄 Certifications & Professional Documents:</h2>
 
