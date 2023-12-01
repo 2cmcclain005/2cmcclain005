@@ -5,14 +5,15 @@
 - [Active Directory Home Lab](https://github.com/2cmcclain005/LABURL)
 - [Mock Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
 
-<h2>📄 Certifications & Professional Documents:</h2>
+<h2>👨‍🎓 Certifications and Education:</h2>
 
-- [Google Foundations of Cybersecuurity Course Certificate](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
+- [Google "Foundations of Cybersecuurity" Course Certificate](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
+- [Google "Play It Safe: Manage Security Risks" Course Certificate](https://coursera.org/share/7e53b7bc7b1b7f9f2cd5d3b80299292d)
+
+<h2>📄 Work-Related Documents</h2>
+
 - [Professional Statement](https://docs.google.com/document/d/1BL3ECzgBIAuB5qFKYss1U8-hmzasyVQnnJSMJcKobRo/edit)
-
-<h2>📺 YouTube Videos</h2>
-
-- [Tutorial: Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Indeed Resume](https://profile.indeed.com/resume)
 
 <h2> 🤳 Connect with me:</h2>
 
