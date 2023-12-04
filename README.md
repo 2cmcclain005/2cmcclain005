@@ -1,9 +1,10 @@
 <h1>Hi, I'm Connor! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Mock Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/2cmcclain005/LABURL)
-- [Mock Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
+- [Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
+- [Network Trafic Analysis Incident Report](https://docs.google.com/document/d/1KlDf2Dhcqwm5-OIWYHDmP5qlKei_YgxH9pKmMA1KAow/edit#heading=h.mjm21hvi0jz5)
 
 <h2>👨‍🎓 Certifications and Education:</h2>
 
