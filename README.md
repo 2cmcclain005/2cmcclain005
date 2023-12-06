@@ -3,16 +3,18 @@
 <h2>👨‍💻 Mock Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/2cmcclain005/LABURL)
-- [Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
+- [Basic Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
 - [Incident Analysis Report: DDoS Attack](https://docs.google.com/document/d/1KlDf2Dhcqwm5-OIWYHDmP5qlKei_YgxH9pKmMA1KAow/edit#heading=h.mjm21hvi0jz5)
 - [Incident Analysis Report: SYN Attack](https://docs.google.com/document/d/1f4ukcCJim5ojruO4SkrS3ESgUK3w22QNegNHi-Zo4l4/edit#heading=h.rkogpw759h9x)
 - [Incident Analysis Report: Brute Force Attack](https://docs.google.com/document/d/12roHFY05NYu69ZQl0y-SLF0u5knYt4wsyF1Nv9w_Rus/edit#heading=h.1wxj3sdlx0rd)
 - [Security Risk Assessment Report](https://docs.google.com/document/d/16K3pOW_MdYZHMF97qqfemWjvbLn1-cggyKScP6rB4ds/edit)
+- [Incident Report Analysis:Using the NIST Cybersecurity Framework to Respond](https://docs.google.com/document/d/1OKRVTtpT5q2MXSGlLGHMjBU7W7qzcnuZUeY1y4Gmjt8/edit)
 
 <h2>👨‍🎓 Certifications and Education:</h2>
 
 - [Google "Foundations of Cybersecuurity" Course Certificate](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
 - [Google "Play It Safe: Manage Security Risks" Course Certificate](https://coursera.org/share/7e53b7bc7b1b7f9f2cd5d3b80299292d)
+- [Google "Connect and Protect: Networks and Network Security" Course Certificate](https://coursera.org/share/11685645f9bbb183021191edf8c2a951)
 
 <h2>📄 Work-Related Documents</h2>
 
