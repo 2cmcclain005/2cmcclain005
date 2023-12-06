@@ -7,6 +7,7 @@
 - [Incident Analysis Report: DDoS Attack](https://docs.google.com/document/d/1KlDf2Dhcqwm5-OIWYHDmP5qlKei_YgxH9pKmMA1KAow/edit#heading=h.mjm21hvi0jz5)
 - [Incident Analysis Report: SYN Attack](https://docs.google.com/document/d/1f4ukcCJim5ojruO4SkrS3ESgUK3w22QNegNHi-Zo4l4/edit#heading=h.rkogpw759h9x)
 - [Incident Analysis Report: Brute Force Attack](https://docs.google.com/document/d/12roHFY05NYu69ZQl0y-SLF0u5knYt4wsyF1Nv9w_Rus/edit#heading=h.1wxj3sdlx0rd)
+- [Security Risk Assessment Report](https://docs.google.com/document/d/16K3pOW_MdYZHMF97qqfemWjvbLn1-cggyKScP6rB4ds/edit)
 
 <h2>👨‍🎓 Certifications and Education:</h2>
 
