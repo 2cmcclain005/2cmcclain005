@@ -1,6 +1,6 @@
 <h1>Hi, I'm Connor! </h1>
 
-<h2>👨‍💻 Mock Cybersecurity Projects:</h2>
+<h2>👨‍💻 Personal Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/2cmcclain005/LABURL)
 - [Basic Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
