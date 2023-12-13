@@ -1,6 +1,6 @@
 <h1>Hi, I'm Connor! You can reach me at 2cmcclain005@gmail.com </h1>
 
-<h2>👨‍💻 Personal Cybersecurity Projects:</h2>
+<h2>👨‍💻 Personal Cybersecurity Projects and Demonstrations:</h2>
 
 - [Basic Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
 - [Incident Analysis Report: DDoS Attack](https://docs.google.com/document/d/1KlDf2Dhcqwm5-OIWYHDmP5qlKei_YgxH9pKmMA1KAow/edit#heading=h.mjm21hvi0jz5)
@@ -11,6 +11,7 @@
 - [Linux File Permissions Lab](https://docs.google.com/document/d/1LYU4c8y-w5RoVqLWQ55oUzKhJyRdRsG5oO91zHlkML0/edit)
 - [Applying Filters to SQL Queries Lab](https://docs.google.com/document/d/1KHeL0sKehRiyvPIaPPW4OyP72qo-TlXPjxm080rEwHo/edit?resourcekey=0-bZYQEpJNhCHH-t4BOOFpXQ#heading=h.adnh333husy)
 - [Home Asset Inventory](https://docs.google.com/spreadsheets/d/1dhoh3wo9W4nhmUFiWhXhNKLpVG-U-X3BL7Mns8o7mVA/edit#gid=0)
+- [Risk Register](https://docs.google.com/document/d/13Ze8W28Kn8a-H80eckkisKSJOcB3JOKfmOnQ0pI2mLU/edit?resourcekey=0-eMmALOjIQjqsJuzWzruuIA)
 
 <h2>👨‍🎓 Certifications and Education (In-Progress):</h2>
 
