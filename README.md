@@ -8,7 +8,7 @@
 - [Incident Analysis Report: Brute Force Attack](https://docs.google.com/document/d/12roHFY05NYu69ZQl0y-SLF0u5knYt4wsyF1Nv9w_Rus/edit#heading=h.1wxj3sdlx0rd)
 - [Security Risk Assessment Report](https://docs.google.com/document/d/16K3pOW_MdYZHMF97qqfemWjvbLn1-cggyKScP6rB4ds/edit)
 - [Incident Report Analysis: Using the NIST Cybersecurity Framework to Respond](https://docs.google.com/document/d/1OKRVTtpT5q2MXSGlLGHMjBU7W7qzcnuZUeY1y4Gmjt8/edit)
-- [Linux File Permissions Home Lab](https://docs.google.com/document/d/1LYU4c8y-w5RoVqLWQ55oUzKhJyRdRsG5oO91zHlkML0/edit)
+- [Linux File Permissions Lab](https://docs.google.com/document/d/1LYU4c8y-w5RoVqLWQ55oUzKhJyRdRsG5oO91zHlkML0/edit)
 - [Applying Filters to SQL Queries Lab](https://docs.google.com/document/d/1KHeL0sKehRiyvPIaPPW4OyP72qo-TlXPjxm080rEwHo/edit?resourcekey=0-bZYQEpJNhCHH-t4BOOFpXQ#heading=h.adnh333husy)
 - [Home Asset Inventory](https://docs.google.com/spreadsheets/d/1dhoh3wo9W4nhmUFiWhXhNKLpVG-U-X3BL7Mns8o7mVA/edit#gid=0)
 
