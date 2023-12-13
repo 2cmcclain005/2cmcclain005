@@ -1,4 +1,4 @@
-<h1>Hi, I'm Connor! Reach me at 2cmcclain005@gmail.com </h1>
+<h1>Hi, I'm Connor! You can reach me at 2cmcclain005@gmail.com </h1>
 
 <h2>👨‍💻 Personal Cybersecurity Projects:</h2>
 
@@ -24,7 +24,7 @@
 - [Professional Statement](https://docs.google.com/document/d/1BL3ECzgBIAuB5qFKYss1U8-hmzasyVQnnJSMJcKobRo/edit)
 - [Indeed Resume](https://profile.indeed.com/resume)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Other Ways to Connect with Me:</h2>
 
 [<img align="left" alt="ConnorMcClain | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ConnorMcClain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
