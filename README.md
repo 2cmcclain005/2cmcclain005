@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Personal Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/2cmcclain005/LABURL)
 - [Basic Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
 - [Incident Analysis Report: DDoS Attack](https://docs.google.com/document/d/1KlDf2Dhcqwm5-OIWYHDmP5qlKei_YgxH9pKmMA1KAow/edit#heading=h.mjm21hvi0jz5)
 - [Incident Analysis Report: SYN Attack](https://docs.google.com/document/d/1f4ukcCJim5ojruO4SkrS3ESgUK3w22QNegNHi-Zo4l4/edit#heading=h.rkogpw759h9x)
