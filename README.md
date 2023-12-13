@@ -1,4 +1,4 @@
-<h1>Hi, I'm Connor! </h1>
+<h1>Hi, I'm Connor! Reach me at 2cmcclain005@gmail.com </h1>
 
 <h2>👨‍💻 Personal Cybersecurity Projects:</h2>
 
@@ -12,7 +12,7 @@
 - [Applying Filters to SQL Queries Lab](https://docs.google.com/document/d/1KHeL0sKehRiyvPIaPPW4OyP72qo-TlXPjxm080rEwHo/edit?resourcekey=0-bZYQEpJNhCHH-t4BOOFpXQ#heading=h.adnh333husy)
 - [Home Asset Inventory](https://docs.google.com/spreadsheets/d/1dhoh3wo9W4nhmUFiWhXhNKLpVG-U-X3BL7Mns8o7mVA/edit#gid=0)
 
-<h2>👨‍🎓 Certifications and Education:</h2>
+<h2>👨‍🎓 Certifications and Education (In-Progress):</h2>
 
 - [Google "Foundations of Cybersecuurity" Course Certificate](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
 - [Google "Play It Safe: Manage Security Risks" Course Certificate](https://coursera.org/share/7e53b7bc7b1b7f9f2cd5d3b80299292d)
