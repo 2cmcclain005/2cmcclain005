@@ -12,6 +12,7 @@
 - [Applying Filters to SQL Queries Lab](https://docs.google.com/document/d/1KHeL0sKehRiyvPIaPPW4OyP72qo-TlXPjxm080rEwHo/edit?resourcekey=0-bZYQEpJNhCHH-t4BOOFpXQ#heading=h.adnh333husy)
 - [Home Asset Inventory](https://docs.google.com/spreadsheets/d/1dhoh3wo9W4nhmUFiWhXhNKLpVG-U-X3BL7Mns8o7mVA/edit#gid=0)
 - [Risk Register](https://docs.google.com/document/d/13Ze8W28Kn8a-H80eckkisKSJOcB3JOKfmOnQ0pI2mLU/edit?resourcekey=0-eMmALOjIQjqsJuzWzruuIA)
+- [Vulnerability Assessment](https://docs.google.com/document/d/1mRbes4VhNJa7_OttPNaBuE2iYCubkMyAry6dNUPKYVc/edit#heading=h.5x0d5h95i329)
 
 <h2>👨‍🎓 Certifications and Education (In-Progress):</h2>
 
