@@ -1,6 +1,6 @@
 <h1>Hi, I'm Connor! You can reach me at 2cmcclain005@gmail.com </h1>
 
-<h2>👨‍💻 Personal Cybersecurity Projects and Demonstrations:</h2>
+<h2>👨‍💻 Personal Cybersecurity Projects and Exercises:</h2>
 
 - [Basic Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
 - [Incident Analysis Report: DDoS Attack](https://docs.google.com/document/d/1KlDf2Dhcqwm5-OIWYHDmP5qlKei_YgxH9pKmMA1KAow/edit#heading=h.mjm21hvi0jz5)
