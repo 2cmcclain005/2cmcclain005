@@ -1,4 +1,4 @@
-<h1>Hi, I'm Connor! You can reach me at 2cmcclain005@gmail.com </h1>
+<h1>Hi, I'm Connor!</h1>
 
 <h2>👨‍💻 Personal Cybersecurity Projects and Exercises:</h2>
 
@@ -38,8 +38,7 @@
 [twitter]: https://twitter.com/2cmcclain005
 [youtube]: https://www.youtube.com/channel/UCVC3G0xA4F8OW6CJ_XfAmyw
 [instagram]: https://www.instagram.com/frankocean.ismydad/
-[linkedin]: https://www.linkedin.com/in/connor-undefined-31786b2a1/
-
+[linkedin]: https://www.linkedin.com/in/connor-boatwright-31786b2a1/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
