@@ -21,6 +21,7 @@
 - [Google "Play It Safe: Manage Security Risks" Course Certificate](https://coursera.org/share/7e53b7bc7b1b7f9f2cd5d3b80299292d)
 - [Google "Connect and Protect: Networks and Network Security" Course Certificate](https://coursera.org/share/11685645f9bbb183021191edf8c2a951)
 - [Google "Tools of the Trade: Linux and SQL" Course Certificate](https://coursera.org/share/17060e9afdbb78258ca0bf19d707af40)
+- [Google "Assets, Threats, and Vulnerabilities" Course Certificate](https://coursera.org/share/6e04644f1a916cd631febbb5bf1b7d77)
 
 <h2>📄 Work-Related Documents</h2>
 
