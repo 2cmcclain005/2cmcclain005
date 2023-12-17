@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Personal Cybersecurity Projects and Exercises:</h2>
 
-- [Applying Filters to SQL Queries Lab](https://docs.google.com/document/d/1KHeL0sKehRiyvPIaPPW4OyP72qo-TlXPjxm080rEwHo/edit?resourcekey=0-bZYQEpJNhCHH-t4BOOFpXQ#heading=h.adnh333husy)
+- [Applying Filters to SQL Queries](https://docs.google.com/document/d/1KHeL0sKehRiyvPIaPPW4OyP72qo-TlXPjxm080rEwHo/edit?resourcekey=0-bZYQEpJNhCHH-t4BOOFpXQ#heading=h.adnh333husy)
 - [Applying the PASTA Framework for Threat Modeling](https://docs.google.com/document/d/1SZNSfyBd210IsQ9rURA0R4382RanfeK0PE8xuQfZ3jg/edit?resourcekey=0-wQNCtsohgGULavLIJmLa_A#heading=h.7nlk2ynsm6vx)
 - [Basic Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
 - [Brute Force Attack Incident Analysis Report](https://docs.google.com/document/d/12roHFY05NYu69ZQl0y-SLF0u5knYt4wsyF1Nv9w_Rus/edit#heading=h.1wxj3sdlx0rd)
