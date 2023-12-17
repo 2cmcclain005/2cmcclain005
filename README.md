@@ -2,19 +2,19 @@
 
 <h2>👨‍💻 Personal Cybersecurity Projects and Exercises:</h2>
 
-- [Basic Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
-- [Incident Analysis Report: DDoS Attack](https://docs.google.com/document/d/1KlDf2Dhcqwm5-OIWYHDmP5qlKei_YgxH9pKmMA1KAow/edit#heading=h.mjm21hvi0jz5)
-- [Incident Analysis Report: SYN Attack](https://docs.google.com/document/d/1f4ukcCJim5ojruO4SkrS3ESgUK3w22QNegNHi-Zo4l4/edit#heading=h.rkogpw759h9x)
-- [Incident Analysis Report: Brute Force Attack](https://docs.google.com/document/d/12roHFY05NYu69ZQl0y-SLF0u5knYt4wsyF1Nv9w_Rus/edit#heading=h.1wxj3sdlx0rd)
-- [Security Risk Assessment Report](https://docs.google.com/document/d/16K3pOW_MdYZHMF97qqfemWjvbLn1-cggyKScP6rB4ds/edit)
-- [Incident Report Analysis: Using the NIST Cybersecurity Framework to Respond](https://docs.google.com/document/d/1OKRVTtpT5q2MXSGlLGHMjBU7W7qzcnuZUeY1y4Gmjt8/edit)
-- [Linux File Permissions Lab](https://docs.google.com/document/d/1LYU4c8y-w5RoVqLWQ55oUzKhJyRdRsG5oO91zHlkML0/edit)
 - [Applying Filters to SQL Queries Lab](https://docs.google.com/document/d/1KHeL0sKehRiyvPIaPPW4OyP72qo-TlXPjxm080rEwHo/edit?resourcekey=0-bZYQEpJNhCHH-t4BOOFpXQ#heading=h.adnh333husy)
-- [Home Asset Inventory](https://docs.google.com/spreadsheets/d/1dhoh3wo9W4nhmUFiWhXhNKLpVG-U-X3BL7Mns8o7mVA/edit#gid=0)
-- [Risk Register](https://docs.google.com/document/d/13Ze8W28Kn8a-H80eckkisKSJOcB3JOKfmOnQ0pI2mLU/edit?resourcekey=0-eMmALOjIQjqsJuzWzruuIA)
-- [Vulnerability Assessment](https://docs.google.com/document/d/1mRbes4VhNJa7_OttPNaBuE2iYCubkMyAry6dNUPKYVc/edit#heading=h.5x0d5h95i329)
 - [Applying the PASTA Framework for Threat Modeling](https://docs.google.com/document/d/1SZNSfyBd210IsQ9rURA0R4382RanfeK0PE8xuQfZ3jg/edit?resourcekey=0-wQNCtsohgGULavLIJmLa_A#heading=h.7nlk2ynsm6vx)
+- [Basic Security Audit](https://docs.google.com/document/d/1pZE2ZnXIwHnFeTcq2dfuPKbCrABbIRvONP77ZSjYNYs/edit)
+- [Brute Force Attack Incident Analysis Report](https://docs.google.com/document/d/12roHFY05NYu69ZQl0y-SLF0u5knYt4wsyF1Nv9w_Rus/edit#heading=h.1wxj3sdlx0rd)
+- [DDoS Attack Incident Analysis Report](https://docs.google.com/document/d/1KlDf2Dhcqwm5-OIWYHDmP5qlKei_YgxH9pKmMA1KAow/edit#heading=h.mjm21hvi0jz5)
+- [Home Asset Inventory](https://docs.google.com/spreadsheets/d/1dhoh3wo9W4nhmUFiWhXhNKLpVG-U-X3BL7Mns8o7mVA/edit#gid=0)
 - [Incident Handler's Journal](https://docs.google.com/document/d/1PF0q2m9uYgWA3e6U-RZkKhdASeOCExFlIydXl7G8-AE/edit?resourcekey=0-wsRvSyG0k4z7JNGDlvF7mw)
+- [Incident Report Analysis Using the NIST Cybersecurity Framework](https://docs.google.com/document/d/1OKRVTtpT5q2MXSGlLGHMjBU7W7qzcnuZUeY1y4Gmjt8/edit)
+- [Linux File Permissions Lab](https://docs.google.com/document/d/1LYU4c8y-w5RoVqLWQ55oUzKhJyRdRsG5oO91zHlkML0/edit)
+- [Risk Register](https://docs.google.com/document/d/13Ze8W28Kn8a-H80eckkisKSJOcB3JOKfmOnQ0pI2mLU/edit?resourcekey=0-eMmALOjIQjqsJuzWzruuIA)
+- [Security Risk Assessment Report](https://docs.google.com/document/d/16K3pOW_MdYZHMF97qqfemWjvbLn1-cggyKScP6rB4ds/edit)
+- [SYN Attack Incident Analysis Report](https://docs.google.com/document/d/1f4ukcCJim5ojruO4SkrS3ESgUK3w22QNegNHi-Zo4l4/edit#heading=h.rkogpw759h9x)
+- [Vulnerability Assessment](https://docs.google.com/document/d/1mRbes4VhNJa7_OttPNaBuE2iYCubkMyAry6dNUPKYVc/edit#heading=h.5x0d5h95i329)
 
 <h2>👨‍🎓 Certifications and Education (In-Progress):</h2>
 
