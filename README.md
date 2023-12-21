@@ -23,6 +23,7 @@
 - [Google "Connect and Protect: Networks and Network Security" Course Certificate](https://coursera.org/share/11685645f9bbb183021191edf8c2a951)
 - [Google "Tools of the Trade: Linux and SQL" Course Certificate](https://coursera.org/share/17060e9afdbb78258ca0bf19d707af40)
 - [Google "Assets, Threats, and Vulnerabilities" Course Certificate](https://coursera.org/share/6e04644f1a916cd631febbb5bf1b7d77)
+- [Google "Sound the Alarm: Detection and Response" Course Certificate](https://coursera.org/share/1524e841d6159ac0ba6b243e971251bb)
 
 <h2>📄 Work-Related Documents</h2>
 
