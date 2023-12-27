@@ -25,6 +25,7 @@
 - [Google "Tools of the Trade: Linux and SQL" Course Certificate](https://coursera.org/share/17060e9afdbb78258ca0bf19d707af40)
 - [Google "Assets, Threats, and Vulnerabilities" Course Certificate](https://coursera.org/share/6e04644f1a916cd631febbb5bf1b7d77)
 - [Google "Sound the Alarm: Detection and Response" Course Certificate](https://coursera.org/share/1524e841d6159ac0ba6b243e971251bb)
+- [Google "Automate Cybersecurity Tasks with Python" Course Certificate](https://coursera.org/share/8468c23f72cc20db574eef9ddf76732e)
 
 <h2>📄 Work-Related Documents</h2>
 
