@@ -15,6 +15,7 @@
 - [Security Risk Assessment Report](https://docs.google.com/document/d/16K3pOW_MdYZHMF97qqfemWjvbLn1-cggyKScP6rB4ds/edit)
 - [SYN Attack Incident Analysis Report](https://docs.google.com/document/d/1f4ukcCJim5ojruO4SkrS3ESgUK3w22QNegNHi-Zo4l4/edit#heading=h.rkogpw759h9x)
 - [Vulnerability Assessment](https://docs.google.com/document/d/1mRbes4VhNJa7_OttPNaBuE2iYCubkMyAry6dNUPKYVc/edit#heading=h.5x0d5h95i329)
+- [Writing a Python Algorithim ](https://docs.google.com/document/d/1IMRtrVImkldgdTLCnyVNDynjFR9kRNnlKl7-V3p0U_k/edit)
 
 <h2>👨‍🎓 Certifications and Education (In-Progress):</h2>
 
