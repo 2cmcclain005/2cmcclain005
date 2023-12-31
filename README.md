@@ -26,6 +26,7 @@
 - [Google "Assets, Threats, and Vulnerabilities" Course Certificate](https://coursera.org/share/6e04644f1a916cd631febbb5bf1b7d77)
 - [Google "Sound the Alarm: Detection and Response" Course Certificate](https://coursera.org/share/1524e841d6159ac0ba6b243e971251bb)
 - [Google "Automate Cybersecurity Tasks with Python" Course Certificate](https://coursera.org/share/8468c23f72cc20db574eef9ddf76732e)
+- [Google "Put It to Work: Prepare for Cybersecurity Jobs" Course Certificate](https://coursera.org/share/b26bc777dd011501a5f3150aa053df94)
 
 <h2>📄 Work-Related Documents</h2>
 
